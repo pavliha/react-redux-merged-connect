@@ -1,0 +1,18 @@
+{
+  "name": "react-redux-merged-connect",
+  "version": "1.0.1",
+  "description": "utility that merges mapStateToProps and mapDispatchToProps to single function",
+  "main": "index.js",
+  "author": "Pavel Kostyuk",
+  "homepage": "https://github.com/pavliha/react-redux-merged-connect",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "normalize"
+  ],
+  "dependencies": {
+    "react-redux": "^7.1.3",
+    "redux": "^4.0.4"
+  }
+}
